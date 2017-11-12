@@ -1,0 +1,16 @@
+C:\Users\sokhu\source\repos\ResistorCalculator\OhmValueCalculatorTest\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\sokhu\source\repos\ResistorCalculator\OhmValueCalculatorTest\bin\Debug\netcoreapp2.0\xunit.runner.utility.netstandard15.dll
+C:\Users\sokhu\source\repos\ResistorCalculator\OhmValueCalculatorTest\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netstandard15.dll
+C:\Users\sokhu\source\repos\ResistorCalculator\OhmValueCalculatorTest\bin\Debug\netcoreapp2.0\OhmValueCalculatorTest.deps.json
+C:\Users\sokhu\source\repos\ResistorCalculator\OhmValueCalculatorTest\bin\Debug\netcoreapp2.0\OhmValueCalculatorTest.runtimeconfig.json
+C:\Users\sokhu\source\repos\ResistorCalculator\OhmValueCalculatorTest\bin\Debug\netcoreapp2.0\OhmValueCalculatorTest.runtimeconfig.dev.json
+C:\Users\sokhu\source\repos\ResistorCalculator\OhmValueCalculatorTest\bin\Debug\netcoreapp2.0\OhmValueCalculatorTest.dll
+C:\Users\sokhu\source\repos\ResistorCalculator\OhmValueCalculatorTest\bin\Debug\netcoreapp2.0\OhmValueCalculatorTest.pdb
+C:\Users\sokhu\source\repos\ResistorCalculator\OhmValueCalculatorTest\bin\Debug\netcoreapp2.0\ResistorCalculator.dll
+C:\Users\sokhu\source\repos\ResistorCalculator\OhmValueCalculatorTest\bin\Debug\netcoreapp2.0\ResistorCalculator.pdb
+C:\Users\sokhu\source\repos\ResistorCalculator\OhmValueCalculatorTest\obj\Debug\netcoreapp2.0\OhmValueCalculatorTest.csprojResolveAssemblyReference.cache
+C:\Users\sokhu\source\repos\ResistorCalculator\OhmValueCalculatorTest\obj\Debug\netcoreapp2.0\OhmValueCalculatorTest.csproj.CoreCompileInputs.cache
+C:\Users\sokhu\source\repos\ResistorCalculator\OhmValueCalculatorTest\obj\Debug\netcoreapp2.0\OhmValueCalculatorTest.AssemblyInfoInputs.cache
+C:\Users\sokhu\source\repos\ResistorCalculator\OhmValueCalculatorTest\obj\Debug\netcoreapp2.0\OhmValueCalculatorTest.AssemblyInfo.cs
+C:\Users\sokhu\source\repos\ResistorCalculator\OhmValueCalculatorTest\obj\Debug\netcoreapp2.0\OhmValueCalculatorTest.dll
+C:\Users\sokhu\source\repos\ResistorCalculator\OhmValueCalculatorTest\obj\Debug\netcoreapp2.0\OhmValueCalculatorTest.pdb

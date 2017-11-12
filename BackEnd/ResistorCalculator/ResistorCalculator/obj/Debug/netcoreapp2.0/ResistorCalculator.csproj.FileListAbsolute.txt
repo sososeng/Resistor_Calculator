@@ -1,0 +1,11 @@
+C:\Users\sokhu\source\repos\ResistorCalculator\ResistorCalculator\bin\Debug\netcoreapp2.0\ResistorCalculator.deps.json
+C:\Users\sokhu\source\repos\ResistorCalculator\ResistorCalculator\bin\Debug\netcoreapp2.0\ResistorCalculator.runtimeconfig.json
+C:\Users\sokhu\source\repos\ResistorCalculator\ResistorCalculator\bin\Debug\netcoreapp2.0\ResistorCalculator.runtimeconfig.dev.json
+C:\Users\sokhu\source\repos\ResistorCalculator\ResistorCalculator\bin\Debug\netcoreapp2.0\ResistorCalculator.dll
+C:\Users\sokhu\source\repos\ResistorCalculator\ResistorCalculator\bin\Debug\netcoreapp2.0\ResistorCalculator.pdb
+C:\Users\sokhu\source\repos\ResistorCalculator\ResistorCalculator\obj\Debug\netcoreapp2.0\ResistorCalculator.csprojResolveAssemblyReference.cache
+C:\Users\sokhu\source\repos\ResistorCalculator\ResistorCalculator\obj\Debug\netcoreapp2.0\ResistorCalculator.csproj.CoreCompileInputs.cache
+C:\Users\sokhu\source\repos\ResistorCalculator\ResistorCalculator\obj\Debug\netcoreapp2.0\ResistorCalculator.AssemblyInfoInputs.cache
+C:\Users\sokhu\source\repos\ResistorCalculator\ResistorCalculator\obj\Debug\netcoreapp2.0\ResistorCalculator.AssemblyInfo.cs
+C:\Users\sokhu\source\repos\ResistorCalculator\ResistorCalculator\obj\Debug\netcoreapp2.0\ResistorCalculator.dll
+C:\Users\sokhu\source\repos\ResistorCalculator\ResistorCalculator\obj\Debug\netcoreapp2.0\ResistorCalculator.pdb

@@ -1,0 +1,21 @@
+body{
+
+
+}
+.selector{
+  display: inline-block;
+  margin-right: 50px;
+
+}
+
+p{
+ color: #464646;
+ margin-top: 50px;
+
+}
+
+.outer{
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
